@@ -16,8 +16,7 @@ const fallguys = require('fallguys-api');
 
 ### crownIcon
 The icon of the crown <img width="20" src="https://cdn.esportinfo.gg/fallguy/img/skins/crowns_icon.png">
-### kudosIcon
-The icon of the kudos <img width="20" src="https://cdn.esportinfo.gg/fallguy/img/skins/kudos_icon.png">
+#he kudos <img width="20" src="https://cdn.esportinfo.gg/fallguy/img/skins/kudos_icon.png">
 ### getAchievements()
 Get all achievements
 ### getArticles()
@@ -121,7 +120,7 @@ How to finish the round (for Team and Final type)
 ## size
 The size of the round (all sizes: Small, Medium, Large)
 ## type
-The type of the round (all types: Race, Survival, Team, Final);
+The type of the round (all types: Race, Survival, Team, Hunt, Final);
 ## designer
 The designer of the round (example: Joseph Juson)
 ## thumbnail
